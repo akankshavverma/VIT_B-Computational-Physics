@@ -1,4 +1,4 @@
-# VIT_2SEM-Computational-Physics(PYH1003)
+# VIT_2ndSEM-Computational-Physics(PYH1003)
 Computational physics is the study of scientific problems using computational methods; it combines computer science, physics and applied mathematics to develop scientific solutions to complex problems. Computational physics complements the areas of theory and experimentation in traditional scientific investigation.
 
 Example applications include the heat capacity of solids, thermal radiation, electrostatics calculations, and image processing.
